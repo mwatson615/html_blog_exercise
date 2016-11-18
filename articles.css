@@ -1,0 +1,63 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 1em;
+	font-color: 222;
+	line-height: 0.8;
+	text-align: center;
+	max-width: 70%;
+}
+#first {
+	height: 15%
+	font-style: sans-serif;
+	padding: 15%;
+	border-style: solid;
+	border-color: black;
+	border-width: thin;
+	border-radius: 20%;
+	background-color: lightblue;
+}
+
+#second {
+	height: 15%
+	font-style: 'Open Sans';
+	padding: 25%;
+	border-style: dotted;
+	border-color: red;
+	border-width: thick;
+	border-radius: 30%;
+	background-color: lightgreen;
+}
+#third {
+	height: 15%
+	font-style: sans-serif;
+	padding: 15%;
+	border-style: dashed;
+	border-color: blue;
+	border-width: thin;
+	border-radius: 20%;
+	background-color: tomato;
+}
+#fourth {
+	height: 15%
+	font-style: 'Open Sans';
+	padding: 25%;
+	border-style: dotted;
+	border-color: green;
+	border-width: 5px;
+	border-radius: 30%;
+	background-color: purple;
+}
+#fifth {
+	height: 15%
+	font-style: sans-serif;
+	padding: 15%;
+	border-style: double;
+	border-color: orange;
+	border-width: 3px;
+	border-radius: 20%;
+	background-color: gray;
+}
+footer {
+	margin-top: 15px
+	padding: 5%;
+}
